@@ -12,30 +12,6 @@ A React-based tribute web application dedicated to **Virat Kohli**, built to pra
 - 📱 Mobile-friendly layout
 - ⚛️ React fundamentals practice project
 
----
-
-## 🛠️ Tech Stack
-
-- React JS
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-
----
-
-## 📁 Project Structure
-
-src/
-│── components/
-│ ├── Header.jsx
-│ ├── Hero.jsx
-│ ├── About.jsx
-│ ├── Stats.jsx
-│ └── Footer.jsx
-│
-│── App.jsx
-│── index.js
-│── styles/
 
 
 ---
