@@ -28,7 +28,7 @@ This project is created for learning and practicing:
 ---
 
 # Clone repository
-git clone https://github.com/your-username/virat-kohli-tribute-react.git
+git clone https://github.com/paravinmulla786/virat-kohli-tribute-react.git
 
 # Move into project
 cd virat-kohli-tribute-react
